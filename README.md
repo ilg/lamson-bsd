@@ -1,3 +1,8 @@
+***Note:***  This is a fork of https://github.com/zedshaw/lamson/tree/e78520b857384462b9eecdedfc0f8c2e57cdd00a, where [the license](LICENSE) is a 3-clause BSD license.
+
+---
+
+
 The Lamson Mail Server(TM)
 
 ======================
